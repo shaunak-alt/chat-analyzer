@@ -1,4 +1,4 @@
-Chat Analyzer
+Chat Analyzer:
 A simple web app to analyze WhatsApp chat data.
 Get insights like top users, most common words, activity over time, and more!
 
